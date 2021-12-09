@@ -4,3 +4,4 @@ spring:
     url: jdbc:mysql://${MYSQL_HOST:localhost}:3306/book?createDatabaseIfNotExist=true
     password: fromConfigServer
 username: FromConfigServer
+url: test.com from config
